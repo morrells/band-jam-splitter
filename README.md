@@ -1,4 +1,4 @@
-# Rehearsal Track Splitter
+# Band Recording Track Splitter
 
 Split a long recording of a band rehearsal `.wav` into likely **song** segments and export each as:
 

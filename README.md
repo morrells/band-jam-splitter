@@ -1,6 +1,6 @@
 # Rehearsal Track Splitter
 
-Split a long rehearsal `.wav` into likely **song** segments and export each as:
+Split a long recording of a band rehearsal `.wav` into likely **song** segments and export each as:
 
 - `track01.mp3`
 - `track02.mp3`
